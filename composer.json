@@ -1,0 +1,17 @@
+{
+    "name": "cgeek/luoshimao",
+    "description": "luoshimao api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cgeek",
+            "email": "cgeek.share@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "IWankeji\\Luoshimao\\": "src/"
+        }
+    }
+}
